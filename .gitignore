@@ -1,0 +1,9 @@
+target/
+design-patterns.ipr
+design-patterns.iml
+.idea/vcs.xml
+.idea/misc.xml
+.idea/compiler.xml
+design-patterns.iws
+DesignPatterns.iml
+.idea/workspace.xml
